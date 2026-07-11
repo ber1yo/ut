@@ -12,6 +12,7 @@ sites:
     location: china
   - name: HKUST Rare & Special e-Zone
     url: https://lbezone.hkust.edu.hk/
+    icon: https://icon.horse/icon/lbezone.hkust.edu.hk
     type: globalping
     location: china
   - name: HKUST Library
