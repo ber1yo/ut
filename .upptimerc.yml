@@ -5,24 +5,24 @@ sites:
   - name: HKUST
     url: https://hkust.edu.hk
     type: globalping
-    location: asia
+    location: china
   - name: HKUST Digital Humanities Initiative
     url: https://digitalhumanities.hkust.edu.hk/
     type: globalping
-    location: asia
+    location: china
   - name: HKUST Rare & Special e-Zone
     url: https://lbezone.hkust.edu.hk/
     icon: https://icon.horse/icon/lbezone.hkust.edu.hk
     type: globalping
-    location: asia
+    location: china
   - name: HKUST Library
     url: https://lbxibo.ust.hk/
     type: globalping
-    location: asia
+    location: china
   - name: HKUST Business School
     url: https://bm.hkust.edu.hk
     type: globalping
-    location: asia
+    location: china
 
 status-website:
   theme: dark
