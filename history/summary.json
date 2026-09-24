@@ -4,10 +4,10 @@
     "url": "https://hkust.edu.hk",
     "icon": "https://icons.duckduckgo.com/ip3/hkust.edu.hk.ico",
     "slug": "hkust",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1068,
@@ -15,17 +15,19 @@
     "timeWeek": 974,
     "timeMonth": 953,
     "timeYear": 1068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 1
+    }
   },
   {
     "name": "HKUST Digital Humanities Initiative",
     "url": "https://digitalhumanities.hkust.edu.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalhumanities.hkust.edu.hk.ico",
     "slug": "hkust-digital-humanities-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1396,
@@ -33,16 +35,18 @@
     "timeWeek": 1338,
     "timeMonth": 1372,
     "timeYear": 1396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 1
+    }
   },
   {
     "name": "HKUST Rare & Special e-Zone",
     "url": "https://lbezone.hkust.edu.hk/",
     "icon": "https://icon.horse/icon/lbezone.hkust.edu.hk",
     "slug": "hkust-rare-and-special-e-zone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 1219,
     "timeMonth": 1296,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 0
+    }
   },
   {
     "name": "HKUST Library",
     "url": "https://lbxibo.ust.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/lbxibo.ust.hk.ico",
     "slug": "hkust-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 1068,
     "timeMonth": 1023,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 0
+    }
   },
   {
     "name": "HKUST Business School",
