@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hkust.edu.hk.ico",
     "slug": "hkust",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "21.18%",
-    "uptimeWeek": "88.74%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.70%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "98.70%",
     "time": 1068,
     "timeDay": 0,
     "timeWeek": 869,
     "timeMonth": 964,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-09-25": 326,
+      "2026-09-25": 621,
       "2026-09-24": 809
     }
   },
@@ -47,11 +47,11 @@
     "icon": "https://icon.horse/icon/lbezone.hkust.edu.hk",
     "slug": "hkust-rare-and-special-e-zone",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "43.60%",
-    "uptimeWeek": "91.94%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.26%",
+    "uptime": "98.99%",
+    "uptimeDay": "23.11%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "98.99%",
     "time": 1334,
     "timeDay": 996,
     "timeWeek": 1262,
@@ -59,7 +59,7 @@
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2026-09-24": 530,
-      "2026-09-25": 282
+      "2026-09-25": 577
     }
   },
   {
@@ -67,9 +67,9 @@
     "url": "https://lbxibo.ust.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/lbxibo.ust.hk.ico",
     "slug": "hkust-library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "66.33%",
+    "uptimeDay": "66.30%",
     "uptimeWeek": "95.19%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.56%",
@@ -79,7 +79,8 @@
     "timeMonth": 1106,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-09-24": 485
+      "2026-09-24": 485,
+      "2026-09-25": 0
     }
   },
   {
@@ -87,20 +88,20 @@
     "url": "https://bm.hkust.edu.hk",
     "icon": "https://icons.duckduckgo.com/ip3/bm.hkust.edu.hk.ico",
     "slug": "hkust-business-school",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.59%",
-    "time": 1087,
-    "timeDay": 1184,
-    "timeWeek": 1189,
-    "timeMonth": 1218,
-    "timeYear": 1087,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "48.14%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.32%",
+    "time": 1108,
+    "timeDay": 1691,
+    "timeWeek": 1358,
+    "timeMonth": 1264,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2026-09-24": 425,
-      "2026-09-25": 27
+      "2026-09-25": 322
     }
   }
 ]
