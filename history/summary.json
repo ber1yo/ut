@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hkust.edu.hk.ico",
     "slug": "hkust",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "49.92%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.22%",
+    "uptimeDay": "40.73%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "99.22%",
     "time": 1068,
     "timeDay": 801,
     "timeWeek": 974,
-    "timeMonth": 953,
+    "timeMonth": 964,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-09-24": 721
+      "2026-09-25": 45,
+      "2026-09-24": 809
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://digitalhumanities.hkust.edu.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalhumanities.hkust.edu.hk.ico",
     "slug": "hkust-digital-humanities-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "66.33%",
-    "uptimeWeek": "95.19%",
+    "uptimeDay": "66.25%",
+    "uptimeWeek": "95.18%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.55%",
     "time": 1419,
     "timeDay": 1863,
     "timeWeek": 1549,
-    "timeMonth": 1429,
+    "timeMonth": 1456,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2026-09-24": 485
+      "2026-09-24": 485,
+      "2026-09-25": 1
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://lbezone.hkust.edu.hk/",
     "icon": "https://icon.horse/icon/lbezone.hkust.edu.hk",
     "slug": "hkust-rare-and-special-e-zone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "63.21%",
+    "uptimeDay": "63.16%",
     "uptimeWeek": "94.74%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.51%",
     "time": 1334,
     "timeDay": 889,
     "timeWeek": 1191,
-    "timeMonth": 1286,
+    "timeMonth": 1292,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2026-09-24": 530
+      "2026-09-24": 530,
+      "2026-09-25": 1
     }
   },
   {
@@ -65,15 +68,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lbxibo.ust.hk.ico",
     "slug": "hkust-library",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "66.33%",
     "uptimeWeek": "95.19%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 1078,
     "timeDay": 1999,
     "timeWeek": 1387,
-    "timeMonth": 1116,
+    "timeMonth": 1124,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2026-09-24": 485
@@ -84,19 +87,20 @@
     "url": "https://bm.hkust.edu.hk",
     "icon": "https://icons.duckduckgo.com/ip3/bm.hkust.edu.hk.ico",
     "slug": "hkust-business-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "70.50%",
-    "uptimeWeek": "95.79%",
+    "uptimeDay": "70.49%",
+    "uptimeWeek": "95.78%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.61%",
     "time": 1080,
     "timeDay": 785,
     "timeWeek": 1023,
-    "timeMonth": 1180,
+    "timeMonth": 1202,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2026-09-24": 425
+      "2026-09-24": 425,
+      "2026-09-25": 0
     }
   }
 ]
