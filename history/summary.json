@@ -12,8 +12,8 @@
     "uptimeYear": "98.74%",
     "time": 1288,
     "timeDay": 1255,
-    "timeWeek": 989,
-    "timeMonth": 1717,
+    "timeWeek": 1005,
+    "timeMonth": 1743,
     "timeYear": 1288,
     "dailyMinutesDown": {
       "2026-09-25": 920,
@@ -34,8 +34,8 @@
     "uptimeYear": "99.36%",
     "time": 1535,
     "timeDay": 2832,
-    "timeWeek": 1868,
-    "timeMonth": 1869,
+    "timeWeek": 1709,
+    "timeMonth": 1911,
     "timeYear": 1535,
     "dailyMinutesDown": {
       "2026-09-24": 485,
@@ -55,8 +55,8 @@
     "uptimeYear": "99.10%",
     "time": 1370,
     "timeDay": 1804,
-    "timeWeek": 1454,
-    "timeMonth": 1466,
+    "timeWeek": 1298,
+    "timeMonth": 1478,
     "timeYear": 1370,
     "dailyMinutesDown": {
       "2026-09-24": 530,
@@ -76,8 +76,8 @@
     "uptimeYear": "99.50%",
     "time": 1163,
     "timeDay": 668,
-    "timeWeek": 1013,
-    "timeMonth": 1336,
+    "timeWeek": 942,
+    "timeMonth": 1331,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2026-09-24": 485,
@@ -89,17 +89,17 @@
     "url": "https://bm.hkust.edu.hk",
     "icon": "https://icons.duckduckgo.com/ip3/bm.hkust.edu.hk.ico",
     "slug": "hkust-business-school",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "96.21%",
-    "uptimeYear": "98.31%",
-    "time": 1108,
-    "timeDay": 404,
-    "timeWeek": 1057,
-    "timeMonth": 1121,
-    "timeYear": 1108,
+    "status": "up",
+    "uptime": "98.19%",
+    "uptimeDay": "87.00%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "98.19%",
+    "time": 1103,
+    "timeDay": 488,
+    "timeWeek": 991,
+    "timeMonth": 1116,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2026-09-24": 425,
       "2026-09-25": 560,
@@ -110,7 +110,8 @@
       "2026-10-23": 175,
       "2026-10-25": 708,
       "2026-10-24": 154,
-      "2026-10-27": 0
+      "2026-10-28": 87,
+      "2026-10-27": 100
     }
   }
 ]
