@@ -68,9 +68,9 @@
     "url": "https://lbxibo.ust.hk/",
     "icon": "https://icons.duckduckgo.com/ip3/lbxibo.ust.hk.ico",
     "slug": "hkust-library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
@@ -81,7 +81,8 @@
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2026-09-24": 485,
-      "2026-09-25": 301
+      "2026-09-25": 301,
+      "2026-11-02": 0
     }
   },
   {
@@ -90,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bm.hkust.edu.hk.ico",
     "slug": "hkust-business-school",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "96.34%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 1145,
     "timeDay": 2463,
     "timeWeek": 1586,
