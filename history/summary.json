@@ -90,12 +90,12 @@
     "url": "https://bm.hkust.edu.hk",
     "icon": "https://icons.duckduckgo.com/ip3/bm.hkust.edu.hk.ico",
     "slug": "hkust-business-school",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 1279,
     "timeDay": 3009,
     "timeWeek": 3633,
@@ -112,7 +112,8 @@
       "2026-10-25": 708,
       "2026-10-24": 154,
       "2026-10-28": 87,
-      "2026-10-27": 100
+      "2026-10-27": 100,
+      "2026-11-10": 0
     }
   }
 ]
